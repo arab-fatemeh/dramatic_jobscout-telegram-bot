@@ -1,0 +1,6 @@
+# secret keys
+.env
+# bot memory (contains users' chat IDs)
+*.pickle
+__pycache__/
+*.pyc
